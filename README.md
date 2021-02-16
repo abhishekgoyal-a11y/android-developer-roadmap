@@ -2,6 +2,21 @@
 [![Mindorks](https://img.shields.io/badge/mindorks-opensource-blue.svg)](https://mindorks.com/open-source-projects)
 [![Mindorks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
+Android Developers are Highly in Demand:
+
+The demand for Android Developer is high but companies require individuals to have the correct skill sets. Additionally, the better the experience, the higher is the salary. The median salary, according to Payscale, is approximately Rs 4,00,000 per year, inclusive of bonuses and profit-sharing.
+
+So, you want to become a Android Developer.
+Don't worry we are here.
+
+To learn anything you required a complete path/roadmap for that.
+
+Visit:- https://www.techroadmap.in/developer/android-developer/skills-required-roadmap/
+
+Content is in the form of Youtube Videos/Playlists.
+
+If you like it, share with your friends/Groups
+
 > A complete roadmap to learn Android App Development. This roadmap will help you in becoming a complete Android Developer.
 
 <p align="center">
